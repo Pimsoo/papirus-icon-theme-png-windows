@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/preview.png" alt="preview"/>
+  <img src="https://raw.githubusercontent.com/TobseF/papirus-icon-theme-png-windows/master/preview.png" alt="preview"/>
 </p>
 
 <p align="center">
@@ -10,6 +10,8 @@
 </p>
 
 Papirus is a free and open source SVG icon theme for Linux, based on [Paper Icon Set](https://github.com/snwh/paper-icon-theme) with a lot of new icons and a few extras, like [Hardcode-Tray support](#hardcoded-tray-icons), [KDE colorscheme support](#kde-colorscheme), [Folder Color support](#folders-color), and [others](#extras).
+
+### 🌟 This fork adds PNG and Windows ICO files 
 
 Papirus icon theme is available in four variants:
 
